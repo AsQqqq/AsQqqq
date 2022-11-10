@@ -1,6 +1,7 @@
 [![Header](https://github.com/AsQqqq/AsQqqq/blob/main/assets/fon_gif.gif)](https://vk.com/da_ya_dalbaeb)
 
-## I am a beginner developer in python and C#
+### About me
+I am a beginner developer in python and C#
 
 Laters YouTube videos
 
