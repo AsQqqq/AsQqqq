@@ -5,7 +5,8 @@ I am a beginner developer in python and C#
 
 ### Languges and Tools
 ![Python](https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=FFD700)
-![Csharp](https://img.shields.io/badge/-C%23-4B0082?style=for-the-badge&logo=csharp&logoColor=7CFC00)
+![Cplusplus](https://img.shields.io/badge/-C++-4B0082?style=for-the-badge&logo=cplusplus&logoColor=7CFC00)
+![JavaScript](https://img.shields.io/badge/-Java-4B0082?style=for-the-badge&logo=javascript&logoColor=ff5500)
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4B0082?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/asq_group)
