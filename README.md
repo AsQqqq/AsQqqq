@@ -7,6 +7,7 @@ Hello! My name is Danila and I am a Python developer with experience in working 
 ![Python](https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=FFD700)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=2E3DFA)
 
-### Follow Me
+<!-- ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4B0082?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/asq_group)
 [![Telegram](https://img.shields.io/badge/-Telegram-4B0082?style=for-the-badge&logo=telegram)](https://t.me/mili_push)
+ -->
