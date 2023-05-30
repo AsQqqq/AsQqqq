@@ -5,6 +5,7 @@ I am a beginner developer in python and C#
 
 ### Languges and Tools
 ![Python](https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=FFD700)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=2E3DFA)
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4B0082?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/asq_group)
