@@ -1,4 +1,4 @@
-[![Header](https://github.com/AsQqqq/AsQqqq/blob/main/assets/banner.png)](https://github.com/AsQqqq/AsQqqq)
+[![Header](https://github.com/AsQqqq/AsQqqq/blob/master/assets/banner.png)](https://github.com/AsQqqq/AsQqqq)
 
 ### About me
 Hi, I'm Danila. I'm a python developer, I'm terribly fond of websites, bots, neural networks.
