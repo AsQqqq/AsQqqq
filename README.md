@@ -1,4 +1,4 @@
-![Header](https://github.com/AsQqqq/AsQqqq/blob/master/assets/banner.gif)
+![banner](https://github.com/user-attachments/assets/da5cd929-d18a-4640-a27f-08ce5633dd29)
 
 ### Обо мне
 Привет! Я Данила Удодов, разработчик Python. Опыт работы начиная с 2018 года.
